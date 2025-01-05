@@ -1,9 +1,9 @@
 # DigitalInitiate
 # Requirement 
-# Frone-end Design with React , Redux , Tailwind , Framer Motion , swiper etc
+ Frone-end Design with React , Redux , Tailwind , Framer Motion , swiper etc
 
-# Functionality  Needed !
+ Functionality  Needed !
 
-# Components 
-# Pages 
+Components 
+ Pages 
 
